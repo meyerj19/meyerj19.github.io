@@ -3,7 +3,9 @@ p {
   <style>
   list-style-type:none;
   display: inline;
-  h2 {text-align: center;}
+  h2 {
+    text-align: center;
+  }
   
   </style>
 }
