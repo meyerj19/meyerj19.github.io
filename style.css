@@ -1,7 +1,12 @@
 p {
   color: black;
-  style="list-style-type:none";
-  style="display: inline";
+  <style>
+  list-style-type:none;
+  display: inline;
+  <h2>
+  text-align: center;
+  </h2>
+  </style>
 }
 
 
