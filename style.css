@@ -8,8 +8,9 @@ p {
   }
 
 div center {
-  text-align: center;
   list-style-type: none;
+  text-align: center;
+  
 }
 
 
