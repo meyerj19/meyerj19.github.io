@@ -18,7 +18,8 @@ address {
 table {
   table-layout: auto;
   width: 180px;
-  length: 50px;
+  length: 10px;
+  border-spacing: 0 15px;
 }
 
 
