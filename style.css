@@ -20,11 +20,7 @@ table {
   width: 5px;
   border-spacing: 0 100px;
   padding: 5px;
-  paddingBetweenCols td
-  {
-   padding:0 30px; 
-  }
-    
+
 }
 
 
