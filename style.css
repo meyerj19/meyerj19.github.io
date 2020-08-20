@@ -19,7 +19,8 @@ table {
   table-layout: auto;
   width: 180px;
   length: 10px;
-  border-spacing: 0 15px;
+  border-spacing: 0 10px;
+  padding: 20px;
 }
 
 
