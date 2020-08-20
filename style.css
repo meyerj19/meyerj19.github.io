@@ -15,5 +15,8 @@ address {
   text-alilgn: center;  
 }
 
+table {
+  table-layout: auto;
+}
 
 
