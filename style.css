@@ -1,5 +1,5 @@
 p {
-  color: black;
+  color: red;
   
 }
   
@@ -17,9 +17,9 @@ address {
 
 table {
   table-layout: auto;
-  width: 900px;
+  width: 1100px;
   border-spacing: 0 5px;
-  padding: 3px;
+  padding: 1px;
 
 }
 paddingBetweenCols:td {
