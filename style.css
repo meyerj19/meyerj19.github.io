@@ -1,5 +1,5 @@
 p {
-  color: red;
+  color: purple;
   
 }
   
@@ -18,7 +18,7 @@ address {
 table {
   table-layout: auto;
   width: 200px;
-  border-spacing: 0 10px;
+  border-spacing: 0 5px;
   padding: 5px;
 
 }
