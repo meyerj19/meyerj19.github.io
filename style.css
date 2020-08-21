@@ -1,5 +1,5 @@
 p {
-  color: red;
+  color: green;
   
 }
   
@@ -23,7 +23,7 @@ table {
 
 }
 paddingBetweenCols:td {
-  padding:0 50px
+  padding:0 500px
 }
 
 
