@@ -17,9 +17,9 @@ address {
 
 table {
   table-layout: auto;
-  width: 700px;
+  width: 900px;
   border-spacing: 0 5px;
-  padding: 5px;
+  padding: 3px;
 
 }
 paddingBetweenCols:td {
